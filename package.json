@@ -1,0 +1,15 @@
+{
+  "name": "@bakkenbaeck/gatsby-plugin-rename-routes",
+  "description": "Gatsby plugin for renaming path names",
+  "author": "Bakken & Bæck <post@bakkenbaeck.com> (https://bakkenbaeck.com/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  }
+}
